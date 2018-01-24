@@ -5,53 +5,53 @@ For the uninspired.
 `for i in range(0,50):
     generate()`
 
-user-centric systems
-bioengineered conductive business systems
-blockchain data-transfer games
-smart-contract smart generators
-magnetic big marketing displays
-AI hardware
-smart aquatic vehicles
-robotic government motors
-wind-powered electrical analytics
-secure cameras
-detachable bio-inspired media motors
-blockchain platforms
-decentralized blockchain manufactured wearables
-secure robots
-secure cost-effective reconaissance games
-blockchain cost-effective games
-bio-inspired robots
-robotic magnetic business actuators
-IoT data-transfer interfaces
-conductive 3d-printed manufactured analytics
-smart AI writing materials
-bio-inspired IoT mobility devices
-flying big robots
-magnetic micro fabrics
-solar-powered digital materials
-magnetic batteries
-secure data-transfer generators
-AI connected manufactured platforms
-3d-printed connected wearables
-peer-to-peer bio-inspired delivery sensors
-aquatic analytics
-bio-inspired smart mobile apps
-IoT distributing systems
-cost-effective mobility devices
-flying sensors
-bio-inspired analog platforms
-cost-effective detachable data-transfer hardware
-smart-contract publishing applications
-solar-powered analog mobile apps
-big materials
-decentralized analytics
-connected fabrics
-user-centric bio-inspired fabrics
-magnetic delivery batteries
-flying IoT writing platforms
-big modular analytics
-blockchain wearables
-magnetic publishing generators
-encrypted secure systems
-bio-inspired marketing cameras
+connected blockchain manufactured batteries  
+3d-printed delivery applications  
+encrypted batteries  
+flying media fabrics  
+big reconaissance wearables  
+3d-printed magnetic software  
+decentralized analytics  
+user-centric government applications  
+smart-contract marketing generators  
+IoT secure drones  
+encrypted business analytics  
+AI materials  
+flying smart-contract digital software  
+wind-powered digital motors  
+decentralized data-transfer mobile apps  
+detachable games  
+encrypted big writing interfaces  
+modular user-centric analytics  
+cost-effective smart-contract distributing hardware  
+magnetic connected vehicles  
+robotic renewable-energy publishing materials  
+user-centric bioengineered displays  
+quantum distributing wearables  
+robotic cost-effective publishing applications  
+big aquatic media interfaces  
+3d-printed smart-contract digital fabrics  
+renewable-energy media fabrics  
+connected magnetic batteries  
+secure computing games  
+renewable-energy bio-inspired cameras  
+modular user-centric generators  
+user-centric vehicles  
+cost-effective bio-inspired platforms  
+big hardware  
+magnetic bio-inspired fabrics  
+connected digital displays  
+conductive connected vehicles  
+wind-powered systems  
+modular quantum platforms  
+robotic 3d-printed sensors  
+bio-inspired wearables  
+secure mobility devices  
+secure applications  
+conductive smart-contract interfaces  
+encrypted decentralized media drones  
+peer-to-peer detachable games  
+peer-to-peer robotic applications  
+3d-printed fabrics  
+peer-to-peer smart-contract media fabrics  
+bioengineered reconaissance systems  
